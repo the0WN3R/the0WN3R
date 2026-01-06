@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @the0WN3R
-- 👀 I’m interested in Computer Sciene (CS) and Electrical and Computer Engineering (ECE)
-- 🌱 I’m currently learning how to code python
-- 💞️ I’m looking to collaborate on any tips you may have for my calculator
+- 👋 Hi, I’m Luke Ockwood
+- 👀 I’m interested in Computer Sciene (CS) and Electrical and Computer Engineering (ECE), and enjoy creating my own programs
+- 🌱 I’m currently learning how to use Unity Engine in collaboration with Cursor, Vercel, Github, and Supabase to create a game
+- 💞️ I’m looking to collaborate on any tips you may have for my budget webapp
 - 📫 How to reach me: I think you can comment in repositories?
-- 😄 Pronouns: I, he, him
+- 😄 Pronouns: he, him
 - ⚡ Fun fact: I'm in 8th grade and am currently taking an online CS50P course from David Malan
 
 <!---
