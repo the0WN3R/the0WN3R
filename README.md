@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any tips you may have for my budget webapp
 - 📫 How to reach me: I think you can comment in repositories?
 - 😄 Pronouns: he, him
-- ⚡ Fun fact: I'm in 8th grade and am currently taking an online CS50P course from David Malan
+- ⚡ Fun fact: I'm entirely self/Youtube taught, so I'm always open to any advice you have because I've probably developed some bad habits
 
 <!---
 the0WN3R/the0WN3R is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
